@@ -3,4 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: About
 ---
+
+Multi-disciplinary technical artist and designer based in Wellington, New Zealand.
+
+3D asset creation for realtime applications and rendering, experience with game development, scripting for workflows.
+Experienced with 3D printing for prototyping (FDM).
+
+### Software
+
+- Blender
+- ZBrush
+- Affinity Suite
+- Adobe Suite
+- Substance Painter, Designer
+- CAD— Autodesk Fusion 360

@@ -27,7 +27,6 @@ Collaboration dance work performed at Meanwhile Gallery. I lead the visual desig
 ![Hand drawn art for a tabletop game](/media/images/art/ttrpg/art_gameart_ttrpg%20(2).jpeg)
 ![Hand drawn art for a tabletop game](/media/images/art/ttrpg/art_gameart_ttrpg%20(3).jpeg)
 
-
 ## Cylinderical Seal
 
 ![Cylinderical seal made of wood rolled over raw clay](/media/images/art/seal/art_printing_cylinderical_seals%20(11).jpeg){: max-width:100%; height:auto; }

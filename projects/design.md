@@ -14,7 +14,6 @@ title: "Design"
 Laser scan self portraiture and artifact exploration. From a project around organic 3D printed death masks which would simultaneously decay alongside the real body whilst also blooming as seeds germinated in the substrate.
 ![FDM Faces as bowl](/media/images/design/deathmasks/design_industrial_deathmasks_exploration%20(12).jpeg)
 
-
 ### Rings — Multi Material Property Exploration
 
 {% include gallery.html folder="design/rings" %}
@@ -37,7 +36,6 @@ An articulated arm holds the light source, the brightness of the lamp is modulat
 ![Vertical lifter lamp](/media/images/design/lamps/design_industrial_lighting_liftlamp%20(5).jpeg)
 
 {% include gallery.html folder="design/lamps/vert" %}
-
 
 {% include gallery.html folder="design/lampcenser" %}
 

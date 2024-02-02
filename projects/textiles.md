@@ -3,4 +3,5 @@ layout: page
 title: "Textiles"
 ---
 
-{% include gallery.html folder="textiles" %}
+{% include gallery.html folder="art/textiles" %}
+

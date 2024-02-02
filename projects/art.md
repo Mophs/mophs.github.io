@@ -8,8 +8,6 @@ title: "Art"
 
 {% include gallery.html folder="art/blocks" %}
 
-{% include gallery.html folder="art/painting" %}
-
 {% include gallery.html folder="art/digital" %}
 
 {% include gallery.html folder="art/drawing" %}
@@ -27,8 +25,8 @@ Collaboration dance work performed at Meanwhile Gallery. I lead the visual desig
 ![3 dancers on a beach wrapped in silk](/media/images/art/fates/production_fates&graces_2022_beach_lo.jpeg)
 
 ![Hand drawn art for a tabletop game](/media/images/art/ttrpg/art_gameart_ttrpg%20(2).jpeg)
+![Hand drawn art for a tabletop game](/media/images/art/ttrpg/art_gameart_ttrpg%20(3).jpeg)
 
-{% include gallery.html folder="art/ttrpg" %}
 
 ## Cylinderical Seal
 

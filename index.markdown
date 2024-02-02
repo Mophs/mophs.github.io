@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About
+# title: About
 ---
 
 Multi-disciplinary technical artist and designer based in Wellington, New Zealand.

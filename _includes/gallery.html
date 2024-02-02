@@ -1,6 +1,3 @@
-
-<!-- https://dmnfarrell.github.io/software/jekyll-galleries -->
-
 <div class ="image-gallery">
     {% assign sorted = site.static_files | sort: 'date' | reverse %}
     {% for file in sorted %}
@@ -15,10 +12,3 @@
       {% endif %}
     {% endfor %}
    </div>
-<!-- Files are given by include folder and then thumbnails are found in the thumbs folder 
-
-Commands
-Thumbnail:
-    magick mogrify -format jpeg -path thumbs -thumbnail 500X500 *
-
--->

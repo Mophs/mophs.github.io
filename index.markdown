@@ -5,6 +5,7 @@
 layout: home
 # title: About
 ---
+![Render of a sculpture](/media/images/3d/artifacts/3d_rendering_urn%20(1).jpeg){:.centre-image}
 
 Multi-disciplinary technical artist and designer based in Wellington, New Zealand.
 
@@ -19,3 +20,7 @@ Experienced with 3D printing for prototyping (FDM).
 - Adobe Suite
 - Substance Painter, Designer
 - CAD— Autodesk Fusion 360
+
+### Contact
+
+[email: contact@torhm.com](mailto:contact@torhm.com)

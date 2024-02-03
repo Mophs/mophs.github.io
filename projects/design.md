@@ -3,8 +3,6 @@ layout: page
 title: "Design"
 ---
 
-
-
 ### Deathmasks — Explorations in Gravegoods
 
 ![FDM Faces as bowl](/media/images/design/deathmasks/design_industrial_deathmasks_exploration%20(1).jpeg)
@@ -58,10 +56,30 @@ An articulated arm holds the light source, the brightness of the lamp is modulat
 ![Furniture renders](/media/images/design/furniture/design_industrial_furniture_rendering(2).jpeg){: max-height:20%; }
 
 {% include gallery.html folder="design/furniture/sketches" %}
+
+### Lounge
+
 ![Furniture renders](/media/images/design/furniture/design_industrial_furniture_rendering(1).jpeg){: max-height:20%; }
 
 {% include gallery.html folder="design/furniture_render" %}
 
-{% include gallery.html folder="design/misc" %}
+### *See/Hear/Speak* Interactive sculpture
+
+![Interactive faces](/media/images/design/misc/design_industrial_lightbox%20(1).jpeg)
+{% include gallery.html folder="design/misc/box" %}
+
+3 Faces modulate in sound and light based on environmental brightness and sound. By covering the leftmost figures eye or turning the sensitivity dial on the right figures head and speaking, the sculpture reacts. Changing colors, shifting pitches and moving across frequencies.
+
+### Graphic Design
 
 {% include gallery.html folder="design/graphic" %}
+
+Prototype multi-fold zine with characters who match in conversation depending on the fold direction.
+
+Alamein EP art for the band Sol Fide
+
+<!-- ### 3D Printed Parabolic Microphone
+
+Collaboration project to 3D print a parabolic microphone for bird recording.
+Designed to accomodate most microphones with a clamp system and be carried alongside a handheld recording device.
+![FDM parabolic mic](/media/images/design/parabolic/design_industrial_parabolic_mic_printed%20(2).jpeg){:.centre-image} -->

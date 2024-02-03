@@ -3,14 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-# title: About
+title: About
 ---
-![Render of a sculpture](/media/images/3d/artifacts/3d_rendering_urn%20(1).jpeg){:.centre-image}
+
 
 Multi-disciplinary technical artist and designer based in Wellington, New Zealand.
 
 3D asset creation for realtime applications and rendering, experience with game development, scripting for workflows.
 Experienced with 3D printing for prototyping (FDM).
+
+![Render of a sculpture](/media/images/3d/artifacts/3d_rendering_urn%20(1).jpeg){:.centre-image}
 
 ### Software
 

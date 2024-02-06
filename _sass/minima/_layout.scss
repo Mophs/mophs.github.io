@@ -13,6 +13,7 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
+  font-family: "Futura", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -209,38 +210,7 @@
   @include relative-font-size(1.5);
 }
 
-/**
- * Image Gallery
-* // https://dmnfarrell.github.io/software/jekyll-galleries
- */
 
- /*! div style */
- .image-gallery {
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-  justify-content: center;
-  // padding: 4px;
-}
-
-.box {
-    flex-basis: 25%;
-    width: 100%;
-    // padding: 10px;
-    // margin: 10px;
-}
-
-.img-gallery {
-  
-width: 100%;
-height: 200px;
-object-fit: cover;
-transform: scale(1);
-transition: all 0.3s ease-in-out;
-// &:hover {
-//   transform: scale(1.05);
-// }
-}
 
 /**
  * Posts
@@ -287,6 +257,42 @@ transition: all 0.3s ease-in-out;
   }
 }
 
+/**
+ * Image Gallery — Based on
+* // https://dmnfarrell.github.io/software/jekyll-galleries
+ */
+
+ /*! div style — Top level*/
+ .image-gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+  justify-content: center;
+  // padding-top: 1vh;
+  padding-bottom: 2vh;
+
+}
+
+.box {
+    flex-basis: 25%;
+    width: 100%;
+    // padding: 10px;
+    // margin: 10px;
+}
+
+.img-gallery {
+  
+width: 100%;
+height: 200px;
+object-fit: cover;
+transform: scale(1);
+transition: all 0.3s ease-in-out;
+// &:hover {
+//   transform: scale(1.05);
+// }
+}
+
+// MEDIA LAYOUTS
 .centre-image
 {
   display: block;

@@ -8,22 +8,24 @@ title: About
 
 ![Render of a sculpture](/media/images/3d/artifacts/3d_rendering_urn%20(1).jpeg){:.centre-image}
 
-Multi-disciplinary artist & designer based in Wellington, New Zealand.
+Tor Halle-McIntyre is a multi-disciplinary artist & designer based in Wellington, New Zealand.
 
 ## Projects
 
 {% include gallery_landing.html%}
-<!-- ### Software
+{% include collapsible.html title="Software" txt="
 
-- Blender
-- ZBrush
-- Affinity Suite
-- Adobe Suite
-- Substance Painter, Designer
-- CAD— Autodesk Fusion 360 
+- Blender <br>
+- ZBrush <br>
+- Affinity Suite <br>
+- Adobe Suite <br>
+- Substance Painter, Designer <br>
+- CAD— Autodesk Fusion 360 <br>
+- Scripting — Python <br><br>
+"%}
 
 3D asset creation for realtime applications and rendering, experience with game development, scripting for workflows.
-Experienced with 3D printing for prototyping (FDM).-->
+Experienced with 3D printing for prototyping (FDM).
 
 ### Contact
 

@@ -1,0 +1,14 @@
+<div class="image-gallery">
+
+  {% for item in site.landing %}
+
+  <div class="box"><a href="{{ item.link | site.url }}" title="{{ item.mouseover }}">
+
+      <img src="{{ site.thumbsurl }}{{ item.thumbnail }}" alt="{{ item.mouseover }}" class="img-gallery" />
+
+    </a>
+  </div>
+
+  {% endfor %}
+
+</div>

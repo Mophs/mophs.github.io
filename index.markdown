@@ -6,6 +6,10 @@ layout: home
 title: About
 ---
 
+## Projects
+
+{% include gallery_landing.html%}
+ 
 
 Multi-disciplinary technical artist and designer based in Wellington, New Zealand.
 

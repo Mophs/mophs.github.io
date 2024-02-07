@@ -23,19 +23,22 @@ title: TOR HALLE–MCINTYRE
 description: >- # this means to ignore newlines until "baseurl:"
   Tor — technical artist, designer, multi disciplinary artist
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.torhm.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 main_header_pages: [3D, Crafts, Design, Photography, Textiles]
 
 collections_dir: _collections
 
-# collections:
+collections:
+  landing:
+    output: true
+  3d:
+    output: true
 # - alpine_foliage
-
 
 imagesurl: "/media/images/"
 thumbsurl: "/media/thumbs/"
-github_username:  mophs
+github_username: mophs
 instagram_username: torhallemcintyre
 # Build settings
 theme: minima

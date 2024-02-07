@@ -13,3 +13,7 @@ Samples of scarf woven on a 40cm riggid heddle loom.
 
 ![Book wrapped in scarf](/media/images/art/textiles/art_textiles_weaving_scarf%20(10).jpeg)
 *2023, Blue & White Acrylic Wool*
+
+### Bags
+
+{% include gallery.html folder="/design/bags" %}

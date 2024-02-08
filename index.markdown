@@ -31,7 +31,3 @@ I bring together specific knowledge, techniques and workflows from a broad range
 - NZ Diploma in Digital Media & Design (Animation & Film, Level 5)
 
 "%}  
-
-### Contact
-
-[email: contact@torhm.com](mailto:contact@torhm.com)  

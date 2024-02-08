@@ -2,6 +2,9 @@
 
     <details>
         <summary>{{include.title}}</summary>
-       {{ include.txt}}
+        <div class="collapsibleinterior">
+            {% capture innertxt %}{{include.txt}}{% endcapture %}
+            {{ innertxt | markdownify }}
+        </div>
     </details>
 </div>

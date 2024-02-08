@@ -39,9 +39,14 @@ An articulated arm holds the light source, the brightness of the lamp is modulat
 
 ### Multi-Material Property 3D Printing
 
-![Multimaterial face scan](/media/images/design/multimat/design_industrial_multimaterial_facescan.jpeg)
+![Multimaterial face scan](/media/images/design/multimat/design_industrial_multimaterial_facescan.jpeg){:.centre-image}
+
+Printed experiments with the Stratasys J750 polyjet printer.  
+An Artec 3D scanner was used to capture a face model and a swatch was extracted to print in color.  
 
 {% include gallery.html folder="design/multimat/grid" %}
+
+*Creature in a jar prop* - body and eyes printed in two different materials
 
 ## Respirator
 
@@ -78,8 +83,11 @@ Prototype multi-fold zine with characters who match in conversation depending on
 
 Alamein EP art for the band Sol Fide
 
-<!-- ### 3D Printed Parabolic Microphone
+### 3D Printed Parabolic Microphone
+
+![Parabolic mic in Fusion 360, render from the front](/media/images/design/parabolic/parabolic_sidebyside.png)
 
 Collaboration project to 3D print a parabolic microphone for bird recording.
 Designed to accomodate most microphones with a clamp system and be carried alongside a handheld recording device.
-![FDM parabolic mic](/media/images/design/parabolic/design_industrial_parabolic_mic_printed%20(2).jpeg){:.centre-image} -->
+
+![FDM parabolic mic](/media/images/design/parabolic/design_industrial_parabolic_mic_printed%20(2).jpeg){:.centre-image}

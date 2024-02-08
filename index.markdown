@@ -6,27 +6,34 @@ layout: home
 title: About
 ---
 
+My work is an exploration of the space between art and technical implementation.  
+Systems and details are important parts of my creative process.  
+I bring together specific knowledge, techniques and workflows from a broad range of domains as part of my problem solving process, striving to create robust design solutions which are as maintainable as they are efficient.
+
+{%include gallery_landing.html %}
+
 ![Render of a sculpture](/media/images/3d/artifacts/3d_rendering_urn%20(1).jpeg){:.centre-image}
 
-Tor Halle-McIntyre is a multi-disciplinary artist & designer based in Wellington, New Zealand.
+### Skills & Background
 
-## Projects
-
-{% include gallery_landing.html%}
 {% include collapsible.html title="Software" txt="
 
-- Blender <br>
-- ZBrush <br>
-- Affinity Suite <br>
-- Adobe Suite <br>
-- Substance Painter, Designer <br>
-- CAD— Autodesk Fusion 360 <br>
-- Scripting — Python <br><br>
-"%}
+- Blender: 3D asset creation, rendering, workflow/pipeline processing  
+- ZBrush: 3D sculpting & photogrammetry retopology  
+- Adobe & Affinity Suites: Image manipulation, vector graphics, layout for print  
+- Substance Painter, Designer: PBR material generation for realtime assets  
+- CAD: Autodesk Fusion 360, including design for 3D printing  
+- Reality Capture: 3D scanning, photogrammetry processing  
+- Operating systems: Experienced across Windows, Mac OsX and Linux  
+- Scripting: Python for data processing and automation"%}
 
-3D asset creation for realtime applications and rendering, experience with game development, scripting for workflows.
-Experienced with 3D printing for prototyping (FDM).
+{% include collapsible.html title="Qualifications" txt="
+
+- Bachelor of Design Innovation, Majoring in Industrial Design, specialisation in digital making  
+- NZ Diploma in Digital Media & Design (Animation & Film, Level 5)
+
+"%}  
 
 ### Contact
 
-[email: contact@torhm.com](mailto:contact@torhm.com)
+[email: contact@torhm.com](mailto:contact@torhm.com)  

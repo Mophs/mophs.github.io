@@ -315,3 +315,21 @@ transition: all 0.3s ease-in-out;
     margin-right: auto;
     width: 100%;
   }
+
+  .collapsible
+  {
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+
+  }
+  .collapsibleinterior
+  {
+    padding-top: 0.1vh;
+    padding-bottom: 0.1vh; 
+  }
+  .subtitle
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

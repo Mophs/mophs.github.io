@@ -12,8 +12,6 @@ I bring together specific knowledge, techniques and workflows from a broad range
 
 {%include gallery_landing.html %}
 
-![Render of a sculpture](/media/images/3d/artifacts/3d_rendering_urn%20(1).jpeg){:.centre-image}
-
 ### Skills & Background
 
 {% include collapsible.html title="Software" txt="

@@ -23,7 +23,7 @@ Polyjet materials allow for not only color but hardness/opacity variation in a s
 
 {% include gallery.html folder="design/lamp_sketching" %}
 
-## Unfurl Lamp Prototype
+### Unfurl Lamp Prototype
 
 ![unfurl lamp](/media/images/design/lamps/design_industrial_lighting_furl_lamp%20(2).jpeg)
 
@@ -48,25 +48,25 @@ An Artec 3D scanner was used to capture a face model and a swatch was extracted 
 
 *Creature in a jar prop* - body and eyes printed in two different materials
 
-## Respirator
+### Respirator
 
-{% include gallery.html folder="design/mask" %}
+![Respirator render](/media/images/design/mask/design_industrial_respirator_project (1).jpeg){:.centre-image-wide}
+![Respirator render](/media/images/design/mask/design_industrial_respirator_project (2).jpeg){:.centre-image-wide}
+![Respirator render](/media/images/design/mask/design_industrial_sketching_healthcare_futuremask (1).jpeg)
 
 ### 3D Printed Stereo Adapter for Zoom Recorder
 
-{% include gallery.html folder="design/jigs" %}
+![3D printed mount](/media/images/design/jigs/design_industrial_stereo_mic_jig.jpeg){:.centre-image}
 
-## Furniture Concepting
+We needed a way to hold two XLR microphones in a stereo arrangement. I 3D printed a clamp and an arca-swiss-compatible tripod mounting plate. Simple hardware was used to for fixing the pieces in place
 
-![Furniture renders](/media/images/design/furniture/design_industrial_furniture_rendering(2).jpeg){: max-height:20%; }
+### Furniture Concepting
+
+![Furniture renders](/media/images/design/furniture/design_industrial_furniture_rendering(1).jpeg){:.centre-image}
 
 {% include gallery.html folder="design/furniture/sketches" %}
 
-### Lounge
-
-![Furniture renders](/media/images/design/furniture/design_industrial_furniture_rendering(1).jpeg){: max-height:20%; }
-
-{% include gallery.html folder="design/furniture_render" %}
+![Furniture renders](/media/images/design/furniture/design_industrial_furniture_rendering(2).jpeg){: max-height:20%; }
 
 ### *See/Hear/Speak* Interactive sculpture
 

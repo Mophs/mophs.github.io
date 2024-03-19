@@ -2,17 +2,22 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# Old personal statement
+# My work is an exploration of the space between art and technical implementation.  
+# Systems and details are important parts of my creative process.  
+# I bring together specific knowledge, techniques and workflows from a broad range of domains as part of my problem solving 
+# process, striving to create robust design solutions which are as maintainable as they are efficient.
+
 layout: home
 title: About
 ---
 
-My work is an exploration of the space between art and technical implementation.  
-Systems and details are important parts of my creative process.  
-I bring together specific knowledge, techniques and workflows from a broad range of domains as part of my problem solving process, striving to create robust design solutions which are as maintainable as they are efficient.
-
 {%include gallery_landing.html %}
 
-### Skills & Background
+## *Technical + Artist*
+
+Ongoing explorations into the tech in art & the artistry of tech.  
+Cross-disciplinary designer, workflow and systems enthusiast.  
 
 {% include collapsible.html title="Software" txt="
 
